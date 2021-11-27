@@ -5,7 +5,7 @@ this repository hosts all my (upcomming) code for my application to the SeRANIS 
 [idea paper](seranis.pdf)
 
 ## master's thesis
-[master's thesis](url_to_masters_thesis)
+[master's thesis](https://raw.githubusercontent.com/fabian1heinrich/LearningCommunicationChannelsWithAutoencoders/main/thesis.pdf)
 
 ## reference to my master's thesis
 most of points we want to review have already been brought up in my master's thesis however we want to use this projects to dig more into the specific parts and derive more feasible results that can be brought into production \
